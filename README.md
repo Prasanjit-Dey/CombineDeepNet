@@ -13,4 +13,4 @@ In this study, we looked at pollution data from six monitoring stations in China
 ### Code:
 All codes are written in `python3`.
 
-+`BiLSTM_BiGRU.ipynb`: This file contains the code for the proposed FuseDeepNet model along with model evaluation using three matrixes: RMSE, MAE, and R<sup>2</sup>.
++ `BiLSTM_BiGRU.ipynb`: This file contains the code for the proposed FuseDeepNet model along with model evaluation using three matrixes: RMSE, MAE, and R<sup>2</sup>.
