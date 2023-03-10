@@ -9,3 +9,8 @@ Elevated air pollutants concentrations have shown to have a significant impact o
 
 ### Dataset:
 In this study, we looked at pollution data from six monitoring stations in China: Aoti Zhongxin, Dongsi, Shunyicheng, Tiantan, Haidan Wanliu, and Wanshou Xigong. This data contains 12 pollution levels and meteorological parameters. In the folder "datasets," you can find all the datasets.
+
+### Code:
+All codes are written in `python3`.
+
++`BiLSTM_BiGRU.ipynb`: This file contains the code for the proposed FuseDeepNet model along with model evaluation using three matrixes: RMSE, MAE, and R<sup>2</sup>.
