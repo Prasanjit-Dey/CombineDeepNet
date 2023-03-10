@@ -14,3 +14,4 @@ In this study, we looked at pollution data from six monitoring stations in China
 All codes are written in `python3`.
 
 + `BiLSTM_BiGRU.ipynb`: This file contains the code for the proposed FuseDeepNet model along with model evaluation using three matrixes: RMSE, MAE, and R<sup>2</sup>.
++ Simliarly file `CNN.ipynb`, `LSTM.ipynb`, `GRU.ipynb`, `CNN_LSTM.ipynb`, and 'CNN_GRU.ipynb' contains the code for other five state-of-the-art models like CNN, LSTM, GRU, CNN-LSTM, and CNN-GRU.
